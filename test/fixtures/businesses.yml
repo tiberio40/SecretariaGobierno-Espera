@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  nombre: MyString
+  propietario: MyString
+
+two:
+  user: two
+  nombre: MyString
+  propietario: MyString
